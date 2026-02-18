@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/AvrodipJoy">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&height=50&lines=👨‍💻+Cybersecurity+Expert;🔐+Pentester+%7C+Red+Teamer;🌐+Web+App+%26+Network+Security;⚡+WordPress+Security+%26+Bug+Fixing;🚀+Always+Learning+%26+Building" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&height=50&lines=👨‍💻+Cybersecurity+Researcher;🔐+Pentester+%7C+Red+Teamer;🌐+Web+App+%26+Network+Security;⚡+WordPress+Security+%26+Bug+Fixing;🚀+Always+Learning+%26+Building" alt="Typing SVG">
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 ## 🛡️ About Me  
 
 Hi, I'm **Avrodip Joy** 👋  
-A passionate **Cybersecurity Expert & Web Security Researcher** with hands-on experience in:  
+A passionate **Cybersecurity Researcher & Web Security Expert** with hands-on experience in:  
 
 - 🔍 **Web Application, Network & Web Server Penetration Testing**  
 - ⚡ **WordPress Security, Elementor, & Bug Fixing**  
